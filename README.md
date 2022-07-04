@@ -1,4 +1,4 @@
 # Mssql Server
 Mssql related article 
 
-[arc-enbaled-sqlmi-instance](azure-data-service/arc-enbaled-sqlmi-instance.md)
+[azure-data-service](azure-data-service/README.md)
